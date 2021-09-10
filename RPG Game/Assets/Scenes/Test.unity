@@ -258,6 +258,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TheRB: {fileID: 1675406881}
   moveSpeed: 10
+  myAnim: {fileID: 1675406884}
 --- !u!95 &1675406884
 Animator:
   serializedVersion: 3
